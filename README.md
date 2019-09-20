@@ -12,6 +12,7 @@ Noodlejump Template-Projekt für das [#FutureCamp19](https://futurecamp.digital/
 ## Programmieraufgaben
 
 * Bild des Helden austauschen
+* Den Wert des Scores links oben im Spiel anzeigen und nach jedem Sprung aktualisieren
 * Einen Punktemultiplikator nach jedem 10-ten Sprung vergeben
 * Velocity/Scrollgeschwindigkeit der Welt nach jedem 10-ten Sprung erhöhen
 * Gravitation nach jedem 10-ten Sprung erhöhen
